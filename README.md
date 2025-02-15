@@ -1,4 +1,15 @@
 # Machine learning-based Cricket Comments Sentiment Analysis in English.
+**Course Title:** Machine Learning Lab
+
+**Course Code:** CSE-5211
+
+**Author:** Md. Jaber Hossain,Abdullah Muhammad Shakib
+
+**Supervised By:** Md. Mynoddin
+
+Assistant Professor,Department of CSE,Rangamati Science and Technology University.
+
+
 
 **Problem Statement**
 
